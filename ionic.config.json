@@ -1,0 +1,7 @@
+{
+  "name": "wellnesfit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

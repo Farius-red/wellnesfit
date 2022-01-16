@@ -1,0 +1,31 @@
+[
+    {
+        "nombre": "inicio",
+        "icon":"home-outline",
+        "redirecto":"/inicio"
+    },
+    {
+        "nombre": "productos",
+        "icon":"storefront-outline",
+        "redirecto":"/productos"
+    },
+    {
+        "nombre": "servicios",
+        "icon":"folder-open-outline",
+        "redirecto":"/servicios"
+    },{
+        "nombre": "contacto",
+        "icon":"mail-open-outline",
+        "redirecto":"/contacto"
+    }
+    ,{
+        "nombre": "registro",
+        "icon":"person-add-outline",
+        "redirecto":"/registro"
+    },
+    {
+        "nombre": "login",
+        "icon":"people-outline",
+        "redirecto":"/login"
+    }
+]
